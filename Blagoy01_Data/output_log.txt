@@ -1,0 +1,88 @@
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Documents\PU\Diplomna rabota\Predi demoto\Blagoy01_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Documents\PU\Diplomna rabota\Predi demoto\Blagoy01_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Documents\PU\Diplomna rabota\Predi demoto\Blagoy01_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Documents\PU\Diplomna rabota\Predi demoto\Blagoy01_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Documents\PU\Diplomna rabota\Predi demoto\Blagoy01_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Documents\PU\Diplomna rabota\Predi demoto\Blagoy01_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Documents\PU\Diplomna rabota\Predi demoto\Blagoy01_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Documents\PU\Diplomna rabota\Predi demoto\Blagoy01_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Documents\PU\Diplomna rabota\Predi demoto\Blagoy01_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Documents\PU\Diplomna rabota\Predi demoto\Blagoy01_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Documents\PU\Diplomna rabota\Predi demoto\Blagoy01_Data\Managed\System.Windows.Forms.dll (this message is harmless)
+Loading D:\Documents\PU\Diplomna rabota\Predi demoto\Blagoy01_Data\Managed\System.Windows.Forms.dll into Unity Child Domain
+- Completed reload, in  0.400 seconds
+Platform assembly: D:\Documents\PU\Diplomna rabota\Predi demoto\Blagoy01_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Documents\PU\Diplomna rabota\Predi demoto\Blagoy01_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.453136 ms
+Platform assembly: D:\Documents\PU\Diplomna rabota\Predi demoto\Blagoy01_Data\Managed\System.Drawing.dll (this message is harmless)
+Platform assembly: D:\Documents\PU\Diplomna rabota\Predi demoto\Blagoy01_Data\Managed\Accessibility.dll (this message is harmless)
+Fallback handler could not load library D:/Documents/PU/Diplomna rabota/Predi demoto/Blagoy01_Data/Mono/libc
+Fallback handler could not load library D:/Documents/PU/Diplomna rabota/Predi demoto/Blagoy01_Data/Mono/.\libc
+Fallback handler could not load library D:/Documents/PU/Diplomna rabota/Predi demoto/Blagoy01_Data/Mono/libc
+Platform assembly: D:\Documents\PU\Diplomna rabota\Predi demoto\Blagoy01_Data\Managed\Mono.Posix.dll (this message is harmless)
+Fallback handler could not load library D:/Documents/PU/Diplomna rabota/Predi demoto/Blagoy01_Data/Mono/libc
+Fallback handler could not load library D:/Documents/PU/Diplomna rabota/Predi demoto/Blagoy01_Data/Mono/.\libc
+Fallback handler could not load library D:/Documents/PU/Diplomna rabota/Predi demoto/Blagoy01_Data/Mono/libc
+Fallback handler could not load library D:/Documents/PU/Diplomna rabota/Predi demoto/Blagoy01_Data/Mono/libX11
+Fallback handler could not load library D:/Documents/PU/Diplomna rabota/Predi demoto/Blagoy01_Data/Mono/.\libX11
+Fallback handler could not load library D:/Documents/PU/Diplomna rabota/Predi demoto/Blagoy01_Data/Mono/libX11
+Fallback handler could not load library D:/Documents/PU/Diplomna rabota/Predi demoto/Blagoy01_Data/Mono/libX11
+Fallback handler could not load library D:/Documents/PU/Diplomna rabota/Predi demoto/Blagoy01_Data/Mono/.\libX11
+Fallback handler could not load library D:/Documents/PU/Diplomna rabota/Predi demoto/Blagoy01_Data/Mono/libX11
+Fallback handler could not load library D:/Documents/PU/Diplomna rabota/Predi demoto/Blagoy01_Data/Mono/libX11
+Fallback handler could not load library D:/Documents/PU/Diplomna rabota/Predi demoto/Blagoy01_Data/Mono/.\libX11
+Fallback handler could not load library D:/Documents/PU/Diplomna rabota/Predi demoto/Blagoy01_Data/Mono/libX11
+Fallback handler could not load library D:/Documents/PU/Diplomna rabota/Predi demoto/Blagoy01_Data/Mono/.\/System/Library/Frameworks/Carbon.framework/Versions/Current/Carbon
+Fallback handler could not load library D:/Documents/PU/Diplomna rabota/Predi demoto/Blagoy01_Data/Mono/lib/System/Library/Frameworks/Carbon.framework/Versions/Current/Carbon
+Fallback handler could not load library D:/Documents/PU/Diplomna rabota/Predi demoto/Blagoy01_Data/Mono/.\lib/System/Library/Frameworks/Carbon.framework/Versions/Current/Carbon
+Fallback handler could not load library D:/Documents/PU/Diplomna rabota/Predi demoto/Blagoy01_Data/Mono/lib/System/Library/Frameworks/Carbon.framework/Versions/Current/Carbon
+Platform assembly: D:\Documents\PU\Diplomna rabota\Predi demoto\Blagoy01_Data\Managed\System.Xml.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2abc -> priority: 1 
+  Thread -> id: 30ec -> priority: 1 
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+D:\Documents\PU\Diplomna rabota\Screenshots\ColourExample.png
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+D:\Documents\PU\Diplomna rabota\Screenshots\White.png
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.268247 ms
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 233.
+Total: 1.223112 ms (FindLiveObjects: 0.015802 ms CreateObjectMapping: 0.012246 ms MarkObjects: 0.350815 ms  DeleteObjects: 0.843062 ms)
+
+D:\Documents\PU\Diplomna rabota\Screenshots\ColourExample.png
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+D:\Documents\PU\Diplomna rabota\Screenshots\White.png
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Case 1/2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+

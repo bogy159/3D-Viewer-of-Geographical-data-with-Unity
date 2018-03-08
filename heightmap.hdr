@@ -1,0 +1,15 @@
+ENVI
+description = {
+heightmap.raw}
+samples = 1025
+lines   = 1025
+bands   = 1
+header offset = 0
+file type = ENVI Standard
+data type = 12
+interleave = bsq
+byte order = 0
+map info = {Cylindrical_Equal_Area, 1, 1, -28493.1667844125, 4255884.54380219, 30.0989057652308, 30.1574639476534}
+coordinate system string = {PROJCS["Cylindrical_Equal_Area",GEOGCS["GCS_North_American_1927",DATUM["D_North_American_1927",SPHEROID["Clarke_1866",6378206.4,294.9786982]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]],PROJECTION["Cylindrical_Equal_Area"],PARAMETER["standard_parallel_1",33.75],PARAMETER["central_meridian",-117.333333333333],PARAMETER["false_easting",0],PARAMETER["false_northing",0],UNIT["Meter",1]]}
+band names = {
+Band 1}
